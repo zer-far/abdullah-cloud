@@ -1,0 +1,35 @@
+<?php
+
+declare(strict_types=1);
+
+use Monolog\Handler\StreamHandler;
+use Monolog\Logger;
+
+$isSwoole = extension_loaded('swoole');
+
+// For swoole, send logs to standard output
+$handler = $isSwoole
+    ? [
+        'name' => StreamHandler::class,
+        'params' => [
+            'level' => Logger::DEBUG,
+            'stream' => 'php://stdout',
+        ],
+    ]
+    : [
+        'params' => [
+            'level' => Logger::DEBUG,
+        ],
+    ];
+
+return [
+
+    'logger' => [
+        'Shlink' => [
+            'handlers' => [
+                'shlink_handler' => $handler,
+            ],
+        ],
+    ],
+
+];
