@@ -1,0 +1,22 @@
+{
+    "source": {
+        "directories": [
+            "module/*/src"
+        ]
+    },
+    "timeout": 5,
+    "logs": {
+        "text": "build/infection-unit/infection-log.txt",
+        "summary": "build/infection-unit/summary-log.txt",
+        "debug": "build/infection-unit/debug-log.txt"
+    },
+    "tmpDir": "build/infection-unit/temp",
+    "phpUnit": {
+        "configDir": "."
+    },
+    "mutators": {
+        "@default": true,
+        "IdenticalEqual": false,
+        "NotIdenticalNotEqual": false
+    }
+}
