@@ -1,0 +1,6 @@
+parameters:
+	checkMissingIterableValueType: false
+	checkGenericClassInNonGenericObjectType: false
+	ignoreErrors:
+		- '#mustRun\(\)#'
+		- '#If condition is always false#'
