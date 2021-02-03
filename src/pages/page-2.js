@@ -43,6 +43,7 @@ const SecondPage = () => (
 <p> </p>
 <a href="http://portfolio.abdullah.cloud">My portfolio</a>
     <Link to="/">Go back to the homepage</Link>
+</a>
   </Layout>
 )
 
