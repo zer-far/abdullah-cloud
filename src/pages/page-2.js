@@ -27,7 +27,7 @@ const SecondPage = () => (
 <p> </p>
 <a href="https://mindmaps.abdullah.cloud">Mindmaps - https://github.com/drichard/mindmaps</a>
 <p> </p>
-<a href="https//secret.abdullah.cloud">sup3rS3cretMes5age - https://github.com/algolia/sup3rS3cretMes5age
+<a href="https//secret.abdullah.cloud">sup3rS3cretMes5age - https://github.com/algolia/sup3rS3cretMes5age</a>
 <p> </p>
 <a href="https://cyberchef.abdullah.cloud">CyberChef - https://github.com/gchq/CyberChef</a>
 <p> </p>
@@ -42,8 +42,8 @@ const SecondPage = () => (
 <a href="https://af15.abdullah.cloud">AF15</a>
 <p> </p>
 <a href="http://portfolio.abdullah.cloud">My portfolio</a>
+<p> </p>
     <Link to="/">Go back to the homepage</Link>
-</a>
   </Layout>
 )
 
