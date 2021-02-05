@@ -1,3 +1,33 @@
+//top of the file
+//--------------please make sure you import this--------------------
+const path = require(`path`);
+const { createFilePath } = require(`gatsby-source-filesystem`);
+const { fmImagesToRelative } = require('gatsby-remark-relative-images');
+//-------------------------------------------------------------------
+
+exports.createPages = ({ graphql, actions }) => {
+...
+
+...
+}
+
+
+//add this
+//-------------------------------------------------------------
+exports.onCreateNode = ({ node, actions, getNode }) => {
+	const { createNodeField } = actions;
+	fmImagesToRelative(node);
+// if you use mdx, please change `MarkdownRemark` to `Mdx`
+　　 if (node.internal.type === `MarkdownRemark`) {
+		const value = createFilePath({ node, getNode });
+		createNodeField({
+			name: `slug`,
+			node,
+			value
+		});
+	}
+};
+//------------------------------------------------------------
 const _ = require('lodash')
 const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
