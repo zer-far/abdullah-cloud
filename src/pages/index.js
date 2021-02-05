@@ -23,8 +23,9 @@ const IndexPage = () => (
     <span>Send</span>
   </button>
 </form>
-  
+  <input>
   <form class="pageclip-form" method="post" action="https://send.pageclip.co/CP0PWPlRaxnTvzjfPtNxKXAvRhpAasYC/contact"><input class="form-control" type="text" name="name" placeholder="Billy Jean" required=""> <input class="form-control" type="email" name="email" placeholder="billy@example.com" required=""> <input type="hidden" name="example" value="basic"> <button class="button button_cta pageclip-form__submit" type="submit"><span>Save</span></button></form>
+  </input>
   
   </Layout>
 )
