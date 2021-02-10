@@ -13,10 +13,6 @@ const SecondPage = () => (
 <p> </p>
 <a href="https://message.abdullah.cloud">Send a custom notification to my phone</a>
 <p> </p>
-<a href="http://goploader.abdullah.cloud:9002">Goploader - https://github.com/Depado/goploader</a>
-<p> </p>
-<a href="http://etherpad.abdullah.cloud:9001">Etherpad - https://github.com/ether/etherpad-lite</a>
-<p> </p>
 <a href="https://spiderfoot.abdullah.cloud">Spiderfoot - https://github.com/smicallef/spiderfoot</a>
 <p> </p>
 <a href="https://upload.abdullah.cloud">Simple File Upload - https://www.simplefileupload.com/</a>
@@ -26,8 +22,6 @@ const SecondPage = () => (
 <a href="https://shortener.abdullah.cloud">Link shortener</a>
 <p> </p>
 <a href="https://mindmaps.abdullah.cloud">Mindmaps - https://github.com/drichard/mindmaps</a>
-<p> </p>
-<a href="https//secret.abdullah.cloud">sup3rS3cretMes5age - https://github.com/algolia/sup3rS3cretMes5age</a>
 <p> </p>
 <a href="https://cyberchef.abdullah.cloud">CyberChef - https://github.com/gchq/CyberChef</a>
 <p> </p>
