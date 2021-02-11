@@ -13,6 +13,8 @@ const SecondPage = () => (
 <p> </p>
 <a href="https://message.abdullah.cloud">Send a custom notification to my phone</a>
 <p> </p>
+<a href="http://etherpad.abdullah.cloud">Etherpad - https://github.com/ether/etherpad-lite</a>
+<p> </p>
 <a href="https://spiderfoot.abdullah.cloud">Spiderfoot - https://github.com/smicallef/spiderfoot</a>
 <p> </p>
 <a href="https://upload.abdullah.cloud">Simple File Upload - https://www.simplefileupload.com/</a>
