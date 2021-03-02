@@ -17,9 +17,6 @@ const IndexPage = () => (
     <Link to="/page-2/">Go to page 2</Link> <br />
   
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-</style>
 <div id="mc_embed_signup">
 <form action="https://cloud.us1.list-manage.com/subscribe/post?u=bafdd27bbeae8f2676ec75cfc&amp;id=850e41fa96" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
