@@ -11,7 +11,7 @@ const IndexPage = () => (
     <h1>Hello</h1>
     <p>Welcome abdullah.cloud</p>
     <p>Go to page 2 to see services on this website.</p>
-<a href="https://ostr.io/protected/abdullah.cloud" target="_blank" rel="noopener noreferrer"><img src="https://ostr.io/images/oblt.png" height="32" /></a>
+     <a href="https://ostr.io/protected/abdullah.cloud" target="_blank" rel="noopener noreferrer"><img src="https://ostr.io/images/obc.png" height="32" /></a>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
