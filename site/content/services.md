@@ -3,7 +3,7 @@ title = "Services"
 slug = "services"
 +++
 
-These are the services on this domain:
+These are the services on this domain:  
 [Send a custom notification to my phone](http://message.abdullah.cloud)  
 [Etherpad](http://etherpad.abdullah.cloud)  
 [Spiderfoot](http://spiderfoot.abdullah.cloud)  
