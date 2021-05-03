@@ -19,4 +19,4 @@ These are the services on this domain:
 [AF15](http://af15.abdullah.cloud)  
 [My portfolio](http://portfolio.abdullah.cloud)  
 
-I also run a Tor exit node. The fingerprint is [D852D3C95A7BCAA6CE9DB588F48051CD33E41137](https://metrics.torproject.org/rs.html#details/D852D3C95A7BCAA6CE9DB588F48051CD33E41137).  
+I also run a [Tor](https://www.torproject.org/) exit node. The fingerprint is [D852D3C95A7BCAA6CE9DB588F48051CD33E41137](https://metrics.torproject.org/rs.html#details/D852D3C95A7BCAA6CE9DB588F48051CD33E41137).  
