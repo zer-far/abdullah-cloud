@@ -62,8 +62,8 @@ customJS = []
 # code = "code"
 
 # If you want to use Cloudflare Web Analytics(https://cloudflare.com) for analytics, add this section
-# [params.cloudflare]
-# token = "token"
+[params.cloudflare]
+token = "1a7debb524eb4cf19151f39a981b0612"
 
 # If you want to use Matomo(https://matomo.org) for analytics, add this section
 # [params.matomo]
@@ -105,11 +105,11 @@ icon = "fa fa-github"
 weight = 1
 url = "https://github.com/zer-far/"
 
-[[params.social]]
-name = "Medium"
-icon = "fa fa-medium"
-weight = 5
-url = "https://medium.com/@zer-far"
+# [[params.social]]
+# name = "Medium"
+# icon = "fa fa-medium"
+# weight = 5
+# url = "https://medium.com/@zer-far"
 
 [languages.en]
 languageName = ":uk:"
@@ -123,6 +123,11 @@ url = "/"
 name = "Services"
 weight = 2
 url = "services/"
+
+[[languages.en.menu.main]]
+name = "Linux"
+weight = 2
+url = "posts/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
