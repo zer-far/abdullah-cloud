@@ -9,7 +9,7 @@ sections:
   label: Pages
   create: all
   match: "**/*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
 upload_dir: forestry
 public_path: "/forestry"
 front_matter_path: ''
