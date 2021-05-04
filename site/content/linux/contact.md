@@ -1,8 +1,6 @@
 +++
-slug = "contact"
-title = "Contact"
+slug = "test"
+title = "test"
 
 +++
-Email: [contact@abdullah.cloud](mailto:contact@abdullah.cloud)  
-XMPP / Jabber: farid@creep.im  
-You can also send a custom notification to my phone: [http://message.abdullah.cloud](http://message.abdullah.cloud)
+test
