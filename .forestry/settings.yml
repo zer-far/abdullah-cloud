@@ -8,7 +8,8 @@ sections:
   path: site/content
   label: Pages
   create: all
-  match: "*"
+  match: "**/*"
+  new_doc_ext: ".md"
 upload_dir: forestry
 public_path: "/forestry"
 front_matter_path: ''
