@@ -8,7 +8,7 @@
     <style> pre { margin:0 0 0 2em; } </style>
     <script>
 
-        var API_KEY = API_KEY;
+        var API_KEY = process.env.API_KEY;
         var API_URL = 'https://2.intelx.io/';
 
         $(document).on('click', '#btnSearch', function (event) {
