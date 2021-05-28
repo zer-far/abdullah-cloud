@@ -1,5 +1,5 @@
 baseURL = "https://abdullah-farid.netlify.app/"
-title = "Abdullah Farid"
+title = "Abdullah"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,7 +12,7 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Abdullah Farid"
+author = "Abdullah"
 description = "Abdullah Farid's personal website"
 keywords = "personal"
 info = "Student"
