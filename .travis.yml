@@ -1,3 +1,2 @@
-language: go
-# script:
-#  - ./binaries/hugo --themesDir=../..
+ script:
+  - cd site && ./binaries/hugo --themesDir=../..
