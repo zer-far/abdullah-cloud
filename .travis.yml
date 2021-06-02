@@ -1,2 +1,2 @@
  script:
-  - cd site && ./binaries/hugo --themesDir=../..
+  - cd site && hugo --themesDir=../..
