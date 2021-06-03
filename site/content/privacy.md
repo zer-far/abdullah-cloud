@@ -190,4 +190,3 @@ If you have any questions about this Privacy Policy, You can contact us:
 *   By email: contact@abdullah.cloud
 
 *   By visiting this page on our website: [https://abdullah.cloud/contact](https://abdullah.cloud/contact)
-*   
