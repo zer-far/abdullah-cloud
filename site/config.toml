@@ -133,3 +133,8 @@ url = "services/"
 name = "Contact me"
 weight = 3
 url = "contact/"
+
+[[languages.en.menu.main]]
+name = "Privacy Policy"
+weight = 4
+url = "privacy/"
