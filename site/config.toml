@@ -130,11 +130,11 @@ url = "services/"
 # url = "linux/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Privacy Policy"
 weight = 3
-url = "contact/"
+url = "privacy/"
 
 [[languages.en.menu.main]]
-name = "Privacy Policy"
+name = "Contact me"
 weight = 4
-url = "privacy/"
+url = "contact/"
