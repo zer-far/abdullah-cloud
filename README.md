@@ -5,6 +5,7 @@
     </a>
     <a href="https://github.com/zer-far/abdullah-cloud/blob/master/LICENSE.txt">
       <img src="https://img.shields.io/github/license/zer-far/abdullah-cloud.svg" alt="MIT License Badge">
+      <img src="https://img.shields.io/github/repo-size/zer-far/abdullah-cloud.svg" alt="Repository size">
     </a>
   </p>
 
