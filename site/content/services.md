@@ -22,6 +22,7 @@ These are the services on this domain:
 [AF15](http://af15.abdullah.cloud)  
 [Vincent Van Git](https://vincent.abdullah.cloud)  
 [My portfolio](https://portfolio.abdullah.cloud)  
+[Rock Paper Scissors Bot](https://rps.abdullah.cloud)  
 [See your IPv4 address](https://ipv4.abdullah.cloud)  
 [See your IPv6 address](https://ipv6.abdullah.cloud)  
 
