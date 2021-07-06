@@ -25,4 +25,4 @@ These are the services on this domain:
 [See your IPv4 address](https://ipv4.abdullah.cloud)  
 [See your IPv6 address](https://ipv6.abdullah.cloud)  
 
-I also run a [Tor](https://www.torproject.org/) exit node. The fingerprint is [D852D3C95A7BCAA6CE9DB588F48051CD33E41137](https://tor.abdullah.cloud/relay/D852D3C95A7BCAA6CE9DB588F48051CD33E41137.html).  
+I also operate a [Tor](https://www.torproject.org/) exit relay. The fingerprint is [D852D3C95A7BCAA6CE9DB588F48051CD33E41137](https://tor.abdullah.cloud/relay/D852D3C95A7BCAA6CE9DB588F48051CD33E41137.html).  
