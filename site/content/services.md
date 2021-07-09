@@ -5,6 +5,7 @@ slug = "services"
 
 These are the services on this domain:  
 [Mental Math tests](https://maths.abdullah.cloud)  
+[Teachable Machine](https://tm.abdullah.cloud)  
 [OCR](https://ocr.abdullah.cloud/)  
 [Send a custom notification to my phone](https://message.abdullah.cloud)  
 [Tor Relays](https://tor.abdullah.cloud)  
